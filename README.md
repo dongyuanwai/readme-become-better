@@ -81,8 +81,10 @@ github-readme文档可以不仅可以使用mardown语法，还支持html语法�
 
 <div align="center">
     <img  src="./icon/github-contribution-grid-snake.svg" />
+    <br />
+    <img width="20%"  src="./images/catcoding.gif" alt="catcoding" />
+    <img width="20%" src="./images/coding.gif" alt="coding" />
+    <img width="20%" src="./images/techstack.gif" alt="techstack" />
 </div>
 
-<img  src="./images/catcoding.gif" />
-<img  src="./images/coding.gif" />
-<img  src="./images/techstack.gif" />
+
