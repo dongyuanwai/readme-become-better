@@ -2,9 +2,12 @@
 本仓库致力于推荐让自己的github-readme个人页面变得更好的方法和资源
 
 ---
-- [自述记录统计数据](#自述记录统计数据)
-- [统计卡片](#统计卡片)
-- [热门语言卡片](#热门语言卡片)
+
+  - [GitHub 卡片](#github-卡片)
+    - [自述记录统计数据](#自述记录统计数据)
+    - [统计卡片](#统计卡片)
+    - [热门语言卡片](#热门语言卡片)
+  - [有趣的图片](#有趣的图片)
 
 
 ## GitHub 卡片
@@ -74,3 +77,12 @@ github-readme文档可以不仅可以使用mardown语法，还支持html语法�
 
 ---
 
+## 有趣的图片
+
+<div align="center">
+    <img  src="./icon/github-contribution-grid-snake.svg" />
+</div>
+
+<img  src="./images/catcoding.gif" />
+<img  src="./images/coding.gif" />
+<img  src="./images/techstack.gif" />
