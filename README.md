@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <img width="100px" src="./images/logo.png" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">Readme Become Better</h2>
  <p align="center">致力于分享让github-readme个人页面变得更好的方法和资源</p>
 </p>
