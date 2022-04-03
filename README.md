@@ -28,4 +28,4 @@ github-readme文档可以不仅可以使用mardown语法，还支持html语法�
 
 通过对卡片链接的操作,您可以进行修改theme值进行改变样式，hide隐藏图标、数据等操作
 
-更多的内容可以查看官方的文档[GitHub Readme Stats ](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md)
+更多的内容可以查看官方的文档 👉 [GitHub Readme Stats ](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md) 👈
