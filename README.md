@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="./images/beauty_logo.png" align="center" alt="GitHub Readme Stats" />
+ <img width="200px" src="./images/beauty_logo.png" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">Readme Become Better</h2>
  <p align="center">致力于分享让github-readme个人页面变得更好的方法和资源</p>
 </p>
