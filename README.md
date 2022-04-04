@@ -79,6 +79,30 @@ github-readme文档可以不仅可以使用mardown语法，还支持html语法�
 </div>
 
 ---
+## 提交活动图
+提交活动图链接:`https://activity-graph.herokuapp.com/graph?username=dongyuanwai`
+
+👇把下面的这段代码复制到你的README.md文档中,将`username=`自己的gitHub名字,就可以得到卡片样式
+```html
+![yuanwaidong's github activity graph](https://activity-graph.herokuapp.com/graph?username=dongyuanwai&theme=dracula)
+```
+![yuanwaidong's github activity graph](https://activity-graph.herokuapp.com/graph?username=dongyuanwai&theme=dracula)
+
+通过对链接尾部传不同的参数，可以控制卡片的布局，和样式
+
+👇把下面的这段代码复制到你的README.md文档中,将`username=`自己的gitHub名字,就可以得到卡片样式
+```html
+<div align="center">
+    <img  src="https://activity-graph.herokuapp.com/graph?username=dongyuanwai&theme=dracula" />
+</div>
+```
+<div align="center">
+    <img  src="https://activity-graph.herokuapp.com/graph?username=dongyuanwai&theme=dracula" />
+</div>
+
+你可以修改主题颜色，自定义背景色和标题名等
+
+更多的内容可以查看官方的文档 👉 [Github Readme Activity Graph](https://github.com/Ashutosh00710/github-readme-activity-graph) 👈
 
 ## 有趣的图片
 
