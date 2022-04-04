@@ -97,7 +97,7 @@ github-readme文档可以不仅可以使用mardown语法，还支持html语法�
 </div>
 ```
 <div align="center">
-    <img  src="https://activity-graph.herokuapp.com/graph?username=dongyuanwai&theme=dracula" />
+    <img  src="https://activity-graph.herokuapp.com/graph?username=dongyuanwai&theme=minimal" />
 </div>
 
 你可以修改主题颜色，自定义背景色和标题名等
