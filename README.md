@@ -105,6 +105,15 @@ github-readme文档可以不仅可以使用mardown语法，还支持html语法�
 
 更多的内容可以查看官方的文档 👉 [Github Readme Activity Graph](https://github.com/Ashutosh00710/github-readme-activity-graph) 👈
 
+## 数据牌
+在浏览 GitHub 项目的时候，经常可以发现很多项目使用数据牌进行展示项目的数据，不经实用，还有美化的作用
+
+### 静态数据牌
+更新中ing...
+
+
+
+
 ## 有趣的图片
 
 <div align="center">
