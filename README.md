@@ -94,13 +94,13 @@ github-readme文档可以不仅可以使用mardown语法，还支持html语法�
 👇把下面的这段代码复制到你的README.md文档中,将`username=`自己的gitHub名字,就可以得到卡片样式
 ```html
 <div align="center">
-    <a href="https://metrics.lecoq.io/about/dongyuanwai">
-      <img  src="https://activity-graph.herokuapp.com/graph?username=dongyuanwai&theme=minimal" />
-    </a>
+  <img  src="https://activity-graph.herokuapp.com/graph?username=dongyuanwai&theme=minimal" />
 </div>
 ```
 <div align="center">
-    <img  src="https://activity-graph.herokuapp.com/graph?username=dongyuanwai&theme=minimal" />
+    <a href="https://metrics.lecoq.io/about/dongyuanwai">
+      <img  src="https://activity-graph.herokuapp.com/graph?username=dongyuanwai&theme=minimal" />
+    </a>
 </div>
 
 你可以修改主题颜色，自定义背景色和标题名等
