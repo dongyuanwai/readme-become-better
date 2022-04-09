@@ -110,7 +110,7 @@ github-readme文档可以不仅可以使用mardown语法，还支持html语法�
 ## 数据牌
 在浏览 GitHub 项目的时候，经常可以发现很多项目使用数据牌进行展示项目的数据，不仅实用，还有美化的作用
 <div align="center">
-    <img  src="https://img.shields.io/badge/gitHub-%E8%91%A3%E5%91%98%E5%A4%96-red" />
+    <img style="margin:0 10px" src="https://img.shields.io/badge/gitHub-%E8%91%A3%E5%91%98%E5%A4%96-red" />
 </div>
 
 ### 静态数据牌
