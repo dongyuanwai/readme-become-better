@@ -19,7 +19,7 @@
 
 ### 自述记录统计数据
 
-卡片链接:`https://github-readme-streak-stats.herokuapp.com?user=dongyuanwai&theme=radical&date_format=%5BY.%5Dn.j`
+卡片链接:`https://github-readme-streak-stats.herokuapp.com?user=dongyuanwai&theme=radical`
 
 👇把下面的这段代码复制到你的README.md文档中,将`username=`自己的gitHub名字,就可以得到卡片样式
 ```html
