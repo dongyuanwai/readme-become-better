@@ -1,7 +1,7 @@
 <p align="center">
  <img width="200px" src="./images/beauty_logo.png" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">Readme Become Better</h2>
- <p align="center">致力于分享让github-readme个人页面变得更好的方法和资源</p>
+ <p align="center">致力于分享让gitHub-readme个人页面变得更好的方法和资源</p>
 </p>
 
 ---
@@ -41,7 +41,7 @@ stats卡片链接：`https://github-readme-stats.vercel.app/api?username=dongyua
 ```
 ![dongyuanwai's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongyuanwai&show_icons=true)
 
-github-readme文档可以不仅可以使用mardown语法，还支持html语法。所以你可以进行插入图片、设置位置等操作
+gitHub-readme文档可以不仅可以使用mardown语法，还支持html语法。所以你可以进行插入图片、设置位置等操作
 
 👇把下面的这段代码复制到你的README.md文档中,将`username=`自己的gitHub名字,就可以得到卡片样式
 ```html
