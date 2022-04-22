@@ -84,9 +84,9 @@ gitHub-readme文档可以不仅可以使用mardown语法，还支持html语法�
 
 👇把下面的这段代码复制到你的README.md文档中,将`username=`自己的gitHub名字,就可以得到卡片样式
 ```html
-![yuanwaidong's github activity graph](https://activity-graph.herokuapp.com/graph?username=dongyuanwai&theme=dracula)
+![Dong Yuanwai's github activity graph](https://activity-graph.herokuapp.com/graph?username=dongyuanwai&theme=dracula)
 ```
-![yuanwaidong's github activity graph](https://activity-graph.herokuapp.com/graph?username=dongyuanwai&theme=dracula)
+![Dong Yuanwai's github activity graph](https://activity-graph.herokuapp.com/graph?username=dongyuanwai&theme=dracula)
 
 通过对链接尾部传不同的参数，可以控制卡片的布局，和样式
 
