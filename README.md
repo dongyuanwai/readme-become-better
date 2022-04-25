@@ -58,7 +58,7 @@ gitHub-readme文档可以不仅可以使用mardown语法，还支持html语法�
 
 ### 热门语言卡片
 
-热门语言链接:`https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra`
+热门语言链接:`https://github-readme-stats.vercel.app/api/top-langs/?username=oldUath`
 
 👇把下面的这段代码复制到你的README.md文档中,将`username=`自己的gitHub名字,就可以得到卡片样式
 ```html
