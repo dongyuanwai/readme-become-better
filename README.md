@@ -62,20 +62,20 @@ gitHub-readme文档可以不仅可以使用mardown语法，还支持html语法�
 
 👇把下面的这段代码复制到你的README.md文档中,将`username=`自己的gitHub名字,就可以得到卡片样式
 ```html
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongyuanwai)
 ```
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongyuanwai)
 
 通过对链接尾部传不同的参数，可以控制卡片的布局，和样式
 
 👇把下面的这段代码复制到你的README.md文档中,将`username=`自己的gitHub名字,就可以得到卡片样式
 ```html
 <div align="center">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongyuanwai&layout=compact" />
 </div>
 ```
 <div align="center">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" />
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongyuanwai&layout=compact&theme=dark" />
 </div>
 
 ---
