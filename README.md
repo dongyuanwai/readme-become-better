@@ -149,6 +149,10 @@ gitHub-readme文档可以不仅可以使用mardown语法，还支持html语法�
 
 [配置生成自我介绍页](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 
+许多优秀的个人介绍页模板👇👇👇
+
+https://zzetao.github.io/awesome-github-profile/
+
 ## 有趣的图片
 
 <div align="center">
