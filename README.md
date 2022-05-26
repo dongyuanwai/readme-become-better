@@ -144,6 +144,11 @@ gitHub-readme文档可以不仅可以使用mardown语法，还支持html语法�
 
 [徽章教程](https://www.cnblogs.com/snowdreams1006/p/11068107.html)
 
+## 自动生成 README.md文档
+不用自己写了，直接在这个👇👇👇网页上配置一些简单的东西，就自动生成了
+
+[配置生成自我介绍页](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+
 ## 有趣的图片
 
 <div align="center">
