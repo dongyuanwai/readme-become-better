@@ -158,9 +158,9 @@ https://zzetao.github.io/awesome-github-profile/
 <div align="center">
     <img  src="./icon/github-contribution-grid-snake.svg" />
     <br />
-    <img width="20%"  src="./images/catcoding.gif" alt="catcoding" />
-    <img width="20%" src="./images/coding.gif" alt="coding" />
-    <img width="20%" src="./images/techstack.gif" alt="techstack" />
+    <img width="40%"  src="./images/catcoding.gif" alt="catcoding" />
+    <img width="40%" src="./images/coding.gif" alt="coding" />
+    <img width="40%" src="./images/techstack.gif" alt="techstack" />
 </div>
 
 
